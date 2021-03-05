@@ -1,0 +1,10 @@
+form {
+  background: var(--color-darkblue-alpha);
+  padding: 2.5rem 0.625rem;
+  border-radius: 0.25rem;
+  background-image: url(https://wallpaperaccess.com/full/2849664.jpg); 
+  margin-left:150px;
+  margin-right:150px;
+  border-radius: 10px;
+  height:900px;
+}
