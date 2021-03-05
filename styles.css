@@ -46,7 +46,7 @@ html {
 #name {
 
   text-align:left;
-  margin-left:20px;
+  margin-left:70px;
 
 
 
@@ -67,7 +67,7 @@ html {
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   display: block;
   margin : 0 auto;
-  margin-left:20px;
+  margin-left:70px;
 
 }
 
@@ -76,7 +76,7 @@ html {
 
 #email-label {
   text-align:left;
-  margin:20px;
+  margin:70px;
 
 
 
@@ -97,7 +97,7 @@ html {
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   display: block;
   margin : 0 auto;
-  margin-left:20px;
+  margin-left:70px;
 
 }
 
@@ -115,13 +115,13 @@ html {
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   display: block;
   margin : 0 auto;
-  margin-left:20px;  
+  margin-left:70px;  
 }
 
 
 #number-label {
   text-align:left;
-  margin:20px;  
+  margin:70px;  
 }
 
 
