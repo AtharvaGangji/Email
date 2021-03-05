@@ -33,6 +33,23 @@ html {
 }
 
 
+.button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: left;
+    border-radius: 40px;
+    margin-left:70px;
+}
+
+
 #survey-form {
   background: var(--color-darkblue-alpha);
   padding: 2.5rem 0.625rem;
